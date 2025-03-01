@@ -35,7 +35,7 @@ Create a `.env` file with the following required variables:
 SEED_PHRASE="your seed phrase"
 HIRO_API_KEY="your-api-key"
 # Or multiple API keys
-HIRO_API_KEYS=["key1", "key2", "key3"]
+HIRO_API_KEYS="key1,key2,key3"
 ```
 
 To specify the location of your `.env` file to the AI, simply paste the absolute path:
